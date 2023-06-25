@@ -1,5 +1,5 @@
 # AdventureGame
-An adventure game that takes place In a garden
+An adventure game that takes place In a garden.
 This game Is on a Console App.
 
 How to Play:
